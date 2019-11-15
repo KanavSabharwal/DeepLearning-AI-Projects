@@ -1,3 +1,3 @@
 # DeepLearning-AI-Projects
 
-I have added these projects
+Here are some of the projects i have worked on in the field of Machine Learning.
